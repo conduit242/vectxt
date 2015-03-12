@@ -1,0 +1,1 @@
+This tool uses feature hashing, and counts of either character or word n-grams to vectorize text from STDIN. It supports custom vector lengths, window sizes, slide lengths and whitespace scrubbing, outputting CSV to STDOUT.
